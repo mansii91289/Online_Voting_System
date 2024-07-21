@@ -5,7 +5,7 @@ require('dotenv').config();
 
 const bodyParser = require('body-parser'); 
 app.use(bodyParser.json()); // req.body
-const PORT = process.env.PORT || 10000;
+const PORT = process.env.PORT || 3002;
 
 // Import the router files
 const userRoutes = require('./routes/userRoutes');
