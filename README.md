@@ -1,0 +1,1 @@
+A system developed with node.js where a user with his/her verified and unique aadhar can vote a candidate standing in the election one time. It's controlled by an admin. The user can wote with it's provided token to the unique id of each candidates. The vote count is recorded for each party.
